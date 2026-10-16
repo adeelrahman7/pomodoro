@@ -1,0 +1,4 @@
+sessions.json
+sessions.json.corrupt
+__pycache__/
+.pytest_cache/
